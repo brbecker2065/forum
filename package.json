@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/brbecker2065/hapi#readme",
   "dependencies": {
-    "@hapi/hapi": "^18.3.1",
+    "@hapi/hapi": "^19.1.1",
     "@hapi/joi": "^15.1.0",
     "knex": "^0.19.1",
     "nodeman": "^1.1.2",
